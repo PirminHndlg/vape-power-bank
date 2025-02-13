@@ -118,7 +118,8 @@ Follow these steps to build your own disposable vape power bank:
 
 7. *Build the Powerbank!*
      - Follow along with the Youtube video
-
+     - Screws used are M3 with 15mm length
+  
 ---
 
 ## 🧾 Licensing
